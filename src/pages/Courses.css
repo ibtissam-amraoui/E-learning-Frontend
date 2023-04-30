@@ -1,0 +1,31 @@
+.course-list{
+    text-align: center;
+    margin-top: 50px;
+}
+.course-list h3{
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.course-list ul li{
+    display: inline-block;
+    width: 150px;
+    border: 1px solid skyblue;
+    padding: 5px;
+}
+.course-list ul {
+    margin:-8px;
+}
+.delete{
+    width: 90px;
+    height: 30px;
+    
+}
+.edit-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }

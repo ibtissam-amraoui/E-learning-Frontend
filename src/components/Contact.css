@@ -1,0 +1,59 @@
+section#contact {
+    padding: 80px 0;
+  }
+  
+  section#contact h2 {
+    font-size: 32px;
+    font-weight: 600;
+  }
+  
+  section#contact p {
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 30px;
+  }
+  
+  section#contact ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+  
+  section#contact ul li {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  .infos{
+    display: inline-block;
+    margin-left: -1200px;
+  }
+  .formulaire{
+    display: inline-block;
+    width: 50%;
+    margin-left: 50%;
+  }
+  
+  section#contact ul li a {
+    color: #333;
+  }
+  
+  section#contact form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  section#contact form input[type="text"],
+  section#contact form input[type="email"],
+  section#contact form textarea {
+    background-color: #fffdfd;
+    border: black;
+    border-radius: none;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 15px;
+    width: 100%;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none
+  }  

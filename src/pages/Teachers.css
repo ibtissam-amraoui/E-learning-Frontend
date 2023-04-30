@@ -1,0 +1,23 @@
+th, td {
+    border: 1px solid skyblue;
+    padding: 8px;
+}
+table {
+        margin: 70px auto 0; /* add 70 pixels of margin on the top and center horizontally */
+        width: 1000px; /* set the width of the table */
+        border: 1px solid skyblue;
+        border-collapse: collapse; /* remove spacing between cells */  
+  }
+ .ad{
+    font-size: 2.4rem;
+    margin-top: 80px;
+    margin-left: -20px;
+
+ }
+ .btn{
+    margin-top: 30px;
+    width: 150px;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+  }
